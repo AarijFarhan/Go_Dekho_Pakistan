@@ -110,7 +110,7 @@ const paragraphInView = useInView(paragraphRef, { once: true });
 
           <button
             type="submit"
-            className="bg-green-700 hover:bg-green-800 text-white font-semibold px-6 py-2 rounded-full hover:translate-y-1 transition-all duration-300"
+            className="bg-green-700 hover:bg-green-800 text-white font-semibold px-6 py-2 rounded-full hover:"
           >
             Send message
           </button>
